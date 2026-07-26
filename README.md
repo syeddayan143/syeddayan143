@@ -64,18 +64,16 @@
 ---
 
 ### 🏆 GitHub Trophies
-
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=syeddayan143&theme=tokyonight&column=6&margin-w=15&margin-h=15&no-bg=true" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=syeddayan143&theme=tokyonight&column=6&no-bg=true&v=1" alt="GitHub Trophies" />
 </div>
 
 ---
 
 ### 📊 GitHub Analytics
-
 <div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=syeddayan143&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=syeddayan143&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+  <img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api?username=syeddayan143&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
+  <img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=syeddayan143&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 </div>
 
 <br />

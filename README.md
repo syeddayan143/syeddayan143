@@ -2,7 +2,7 @@
 
   <!-- Dynamic Typing Header -->
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&pause=1000&color=00F2FE&center=true&vcenter=true&width=500&lines=Web+Developer;Full-Stack+.NET+Developer;CS+Undergraduate;Building+Modern+Web+Apps" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&pause=1000&color=00F2FE&center=true&vcenter=true&width=500&lines=Web+Developer;Full-Stack+.NET+Developer" alt="Typing SVG" />
   </a>
 
   <p align="center">
